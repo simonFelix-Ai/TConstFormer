@@ -1,0 +1,3 @@
+- SHA256 of `paper.TConstFormer.en.pdf` is recorded to(as the input data):
+  - [BscScan Transaction](https://bscscan.com/tx/0xccc751078f4618bd56131ef180df3491c005d840ca7eb68d086a129205396464)
+  - [Etherscan Transaction](https://etherscan.io/tx/0x3fd2914aa4f0b6dbdf16aa3362e3da9f18f78782e52202f347c9a965b48a4ad5)
